@@ -1,0 +1,399 @@
+[
+  {
+    "producer": "Domaine de la Romanée-Conti",
+    "wines": [
+      { "wine_name": "Romanée-Conti Grand Cru", "appellation": "Romanée-Conti", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Romanée-Conti", "color": "red", "avg_price": 24000, "min_price": 18000, "max_price": 35000 },
+      { "wine_name": "La Tâche Grand Cru", "appellation": "La Tâche", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "La Tâche", "color": "red", "avg_price": 5500, "min_price": 4000, "max_price": 8500 },
+      { "wine_name": "Richebourg Grand Cru", "appellation": "Richebourg", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Richebourg", "color": "red", "avg_price": 4200, "min_price": 3200, "max_price": 6500 },
+      { "wine_name": "Romanée-Saint-Vivant Grand Cru", "appellation": "Romanée-Saint-Vivant", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Romanée-Saint-Vivant", "color": "red", "avg_price": 4200, "min_price": 3000, "max_price": 6500 },
+      { "wine_name": "Grands Echézeaux Grand Cru", "appellation": "Grands Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Grands Echézeaux", "color": "red", "avg_price": 3500, "min_price": 2500, "max_price": 5500 },
+      { "wine_name": "Echézeaux Grand Cru", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Echézeaux", "color": "red", "avg_price": 3800, "min_price": 2800, "max_price": 5500 },
+      { "wine_name": "Corton Grand Cru", "appellation": "Corton", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton", "color": "red", "avg_price": 3500, "min_price": 2500, "max_price": 5000 },
+      { "wine_name": "Montrachet Grand Cru", "appellation": "Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Montrachet", "color": "white", "avg_price": 10900, "min_price": 8000, "max_price": 16000 },
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 6500, "min_price": 4500, "max_price": 9500 }
+    ]
+  },
+  {
+    "producer": "Domaine Leroy",
+    "wines": [
+      { "wine_name": "Musigny Grand Cru", "appellation": "Musigny", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Musigny", "color": "red", "avg_price": 50000, "min_price": 30000, "max_price": 80000 },
+      { "wine_name": "Chambertin Grand Cru", "appellation": "Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chambertin", "color": "red", "avg_price": 14000, "min_price": 9000, "max_price": 22000 },
+      { "wine_name": "Clos de Vougeot Grand Cru", "appellation": "Clos de Vougeot", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vougeot", "vineyard": "Clos de Vougeot", "color": "red", "avg_price": 7000, "min_price": 4500, "max_price": 11000 },
+      { "wine_name": "Richebourg Grand Cru", "appellation": "Richebourg", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Richebourg", "color": "red", "avg_price": 10500, "min_price": 7000, "max_price": 16000 },
+      { "wine_name": "Romanée-Saint-Vivant Grand Cru", "appellation": "Romanée-Saint-Vivant", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Romanée-Saint-Vivant", "color": "red", "avg_price": 9500, "min_price": 6500, "max_price": 15000 },
+      { "wine_name": "Corton-Renardes Grand Cru", "appellation": "Corton", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Les Renardes", "color": "red", "avg_price": 6600, "min_price": 4500, "max_price": 10000 },
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 10500, "min_price": 7000, "max_price": 16000 },
+      { "wine_name": "Latricières-Chambertin Grand Cru", "appellation": "Latricières-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Latricières-Chambertin", "color": "red", "avg_price": 7700, "min_price": 5000, "max_price": 12000 },
+      { "wine_name": "Clos de la Roche Grand Cru", "appellation": "Clos de la Roche", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos de la Roche", "color": "red", "avg_price": 8600, "min_price": 5500, "max_price": 13000 },
+      { "wine_name": "Vosne-Romanée Les Beaux Monts", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Beaux Monts", "color": "red", "avg_price": 3200, "min_price": 2200, "max_price": 5000 },
+      { "wine_name": "Vosne-Romanée Les Brûlées", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Brûlées", "color": "red", "avg_price": 3500, "min_price": 2400, "max_price": 5500 },
+      { "wine_name": "Nuits-Saint-Georges Les Vignerondes", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Les Vignerondes", "color": "red", "avg_price": 2800, "min_price": 2000, "max_price": 4500 },
+      { "wine_name": "Nuits-Saint-Georges Aux Boudots", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Aux Boudots", "color": "red", "avg_price": 3000, "min_price": 2100, "max_price": 4800 },
+      { "wine_name": "Gevrey-Chambertin Les Combottes", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Combottes", "color": "red", "avg_price": 3000, "min_price": 2000, "max_price": 4800 },
+      { "wine_name": "Savigny-lès-Beaune Les Narbantons", "appellation": "Savigny-lès-Beaune 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Savigny-lès-Beaune", "vineyard": "Les Narbantons", "color": "red", "avg_price": 1500, "min_price": 1000, "max_price": 2400 },
+      { "wine_name": "Pommard Les Vignots", "appellation": "Pommard", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Pommard", "vineyard": "Les Vignots", "color": "red", "avg_price": 1800, "min_price": 1200, "max_price": 2800 }
+    ]
+  },
+  {
+    "producer": "Domaine d'Auvenay",
+    "wines": [
+      { "wine_name": "Chevalier-Montrachet Grand Cru", "appellation": "Chevalier-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Chevalier-Montrachet", "color": "white", "avg_price": 30000, "min_price": 20000, "max_price": 45000 },
+      { "wine_name": "Criots-Bâtard-Montrachet Grand Cru", "appellation": "Criots-Bâtard-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Chassagne-Montrachet", "vineyard": "Criots-Bâtard-Montrachet", "color": "white", "avg_price": 28000, "min_price": 18000, "max_price": 40000 },
+      { "wine_name": "Mazis-Chambertin Grand Cru", "appellation": "Mazis-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Mazis-Chambertin", "color": "red", "avg_price": 15000, "min_price": 10000, "max_price": 22000 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 13700, "min_price": 9000, "max_price": 20000 },
+      { "wine_name": "Meursault Les Gouttes d'Or", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Gouttes d'Or", "color": "white", "avg_price": 3500, "min_price": 2500, "max_price": 5500 },
+      { "wine_name": "Puligny-Montrachet Les Folatières", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Les Folatières", "color": "white", "avg_price": 3800, "min_price": 2800, "max_price": 5800 }
+    ]
+  },
+  {
+    "producer": "Domaine Georges & Christophe Roumier",
+    "wines": [
+      { "wine_name": "Musigny Grand Cru", "appellation": "Musigny", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Musigny", "color": "red", "avg_price": 17600, "min_price": 12000, "max_price": 28000 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 2000, "min_price": 1500, "max_price": 3000 },
+      { "wine_name": "Ruchottes-Chambertin Grand Cru", "appellation": "Ruchottes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Ruchottes-Chambertin", "color": "red", "avg_price": 1700, "min_price": 1200, "max_price": 2500 },
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 1100, "min_price": 800, "max_price": 1600 },
+      { "wine_name": "Chambolle-Musigny Les Amoureuses", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Amoureuses", "color": "red", "avg_price": 5500, "min_price": 3800, "max_price": 8500 },
+      { "wine_name": "Chambolle-Musigny Les Cras", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Cras", "color": "red", "avg_price": 950, "min_price": 650, "max_price": 1400 },
+      { "wine_name": "Morey-Saint-Denis Clos de la Bussière", "appellation": "Morey-Saint-Denis 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos de la Bussière", "color": "red", "avg_price": 450, "min_price": 300, "max_price": 700 }
+    ]
+  },
+  {
+    "producer": "Domaine Dujac",
+    "wines": [
+      { "wine_name": "Clos de la Roche Grand Cru", "appellation": "Clos de la Roche", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos de la Roche", "color": "red", "avg_price": 970, "min_price": 700, "max_price": 1400 },
+      { "wine_name": "Clos Saint-Denis Grand Cru", "appellation": "Clos Saint-Denis", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos Saint-Denis", "color": "red", "avg_price": 1060, "min_price": 750, "max_price": 1500 },
+      { "wine_name": "Chambertin Grand Cru", "appellation": "Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chambertin", "color": "red", "avg_price": 4000, "min_price": 2800, "max_price": 6000 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 1250, "min_price": 850, "max_price": 1800 },
+      { "wine_name": "Echézeaux Grand Cru", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Echézeaux", "color": "red", "avg_price": 990, "min_price": 700, "max_price": 1400 },
+      { "wine_name": "Charmes-Chambertin Grand Cru", "appellation": "Charmes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Charmes-Chambertin", "color": "red", "avg_price": 650, "min_price": 450, "max_price": 950 },
+      { "wine_name": "Romanée-Saint-Vivant Grand Cru", "appellation": "Romanée-Saint-Vivant", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Romanée-Saint-Vivant", "color": "red", "avg_price": 3600, "min_price": 2500, "max_price": 5200 },
+      { "wine_name": "Gevrey-Chambertin Les Combottes", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Combottes", "color": "red", "avg_price": 400, "min_price": 280, "max_price": 600 },
+      { "wine_name": "Vosne-Romanée Les Beaux Monts", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Beaux Monts", "color": "red", "avg_price": 450, "min_price": 300, "max_price": 700 },
+      { "wine_name": "Chambolle-Musigny Les Gruenchers", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Gruenchers", "color": "red", "avg_price": 380, "min_price": 260, "max_price": 550 }
+    ]
+  },
+  {
+    "producer": "Domaine Armand Rousseau",
+    "wines": [
+      { "wine_name": "Chambertin Grand Cru", "appellation": "Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chambertin", "color": "red", "avg_price": 4000, "min_price": 2800, "max_price": 6500 },
+      { "wine_name": "Chambertin Clos de Bèze Grand Cru", "appellation": "Chambertin Clos de Bèze", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos de Bèze", "color": "red", "avg_price": 3200, "min_price": 2300, "max_price": 5000 },
+      { "wine_name": "Clos de la Roche Grand Cru", "appellation": "Clos de la Roche", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos de la Roche", "color": "red", "avg_price": 1175, "min_price": 800, "max_price": 1800 },
+      { "wine_name": "Ruchottes-Chambertin Clos des Ruchottes", "appellation": "Ruchottes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos des Ruchottes", "color": "red", "avg_price": 1500, "min_price": 1000, "max_price": 2200 },
+      { "wine_name": "Mazis-Chambertin Grand Cru", "appellation": "Mazis-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Mazis-Chambertin", "color": "red", "avg_price": 1160, "min_price": 800, "max_price": 1700 },
+      { "wine_name": "Charmes-Chambertin Grand Cru", "appellation": "Charmes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Charmes-Chambertin", "color": "red", "avg_price": 1020, "min_price": 700, "max_price": 1500 },
+      { "wine_name": "Gevrey-Chambertin Clos Saint-Jacques", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos Saint-Jacques", "color": "red", "avg_price": 2160, "min_price": 1500, "max_price": 3200 },
+      { "wine_name": "Gevrey-Chambertin Les Cazetiers", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Cazetiers", "color": "red", "avg_price": 550, "min_price": 380, "max_price": 850 },
+      { "wine_name": "Gevrey-Chambertin Lavaux Saint-Jacques", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Lavaux Saint-Jacques", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 750 }
+    ]
+  },
+  {
+    "producer": "Domaine Coche-Dury",
+    "wines": [
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 6350, "min_price": 4500, "max_price": 9500 },
+      { "wine_name": "Meursault Perrières", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Perrières", "color": "white", "avg_price": 3700, "min_price": 2500, "max_price": 5500 },
+      { "wine_name": "Meursault Genevrières", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Genevrières", "color": "white", "avg_price": 2700, "min_price": 1800, "max_price": 4000 },
+      { "wine_name": "Meursault Caillerets", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Caillerets", "color": "white", "avg_price": 2000, "min_price": 1400, "max_price": 3200 },
+      { "wine_name": "Volnay Premier Cru", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": null, "color": "red", "avg_price": 800, "min_price": 550, "max_price": 1200 }
+    ]
+  },
+  {
+    "producer": "Domaine Leflaive",
+    "wines": [
+      { "wine_name": "Montrachet Grand Cru", "appellation": "Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Montrachet", "color": "white", "avg_price": 11000, "min_price": 7500, "max_price": 16000 },
+      { "wine_name": "Chevalier-Montrachet Grand Cru", "appellation": "Chevalier-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Chevalier-Montrachet", "color": "white", "avg_price": 2300, "min_price": 1600, "max_price": 3500 },
+      { "wine_name": "Bâtard-Montrachet Grand Cru", "appellation": "Bâtard-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Bâtard-Montrachet", "color": "white", "avg_price": 1700, "min_price": 1200, "max_price": 2500 },
+      { "wine_name": "Bienvenues-Bâtard-Montrachet Grand Cru", "appellation": "Bienvenues-Bâtard-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Bienvenues-Bâtard-Montrachet", "color": "white", "avg_price": 1500, "min_price": 1000, "max_price": 2500 },
+      { "wine_name": "Puligny-Montrachet Les Pucelles", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Les Pucelles", "color": "white", "avg_price": 800, "min_price": 550, "max_price": 1200 },
+      { "wine_name": "Puligny-Montrachet Les Combettes", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Les Combettes", "color": "white", "avg_price": 600, "min_price": 400, "max_price": 900 },
+      { "wine_name": "Puligny-Montrachet Clavoillon", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Clavoillon", "color": "white", "avg_price": 450, "min_price": 300, "max_price": 700 },
+      { "wine_name": "Puligny-Montrachet Les Folatières", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Les Folatières", "color": "white", "avg_price": 500, "min_price": 350, "max_price": 750 }
+    ]
+  },
+  {
+    "producer": "Domaine Raveneau",
+    "wines": [
+      { "wine_name": "Chablis Grand Cru Les Clos", "appellation": "Chablis Grand Cru", "classification": "Grand Cru", "region": "Chablis", "commune": "Chablis", "vineyard": "Les Clos", "color": "white", "avg_price": 1740, "min_price": 1200, "max_price": 2500 },
+      { "wine_name": "Chablis Grand Cru Blanchot", "appellation": "Chablis Grand Cru", "classification": "Grand Cru", "region": "Chablis", "commune": "Chablis", "vineyard": "Blanchot", "color": "white", "avg_price": 910, "min_price": 600, "max_price": 1400 },
+      { "wine_name": "Chablis Grand Cru Valmur", "appellation": "Chablis Grand Cru", "classification": "Grand Cru", "region": "Chablis", "commune": "Chablis", "vineyard": "Valmur", "color": "white", "avg_price": 920, "min_price": 600, "max_price": 1400 },
+      { "wine_name": "Chablis Premier Cru Montée de Tonnerre", "appellation": "Chablis 1er Cru", "classification": "Premier Cru", "region": "Chablis", "commune": "Chablis", "vineyard": "Montée de Tonnerre", "color": "white", "avg_price": 200, "min_price": 140, "max_price": 320 },
+      { "wine_name": "Chablis Premier Cru Butteaux", "appellation": "Chablis 1er Cru", "classification": "Premier Cru", "region": "Chablis", "commune": "Chablis", "vineyard": "Butteaux", "color": "white", "avg_price": 180, "min_price": 120, "max_price": 280 },
+      { "wine_name": "Chablis Premier Cru Chapelot", "appellation": "Chablis 1er Cru", "classification": "Premier Cru", "region": "Chablis", "commune": "Chablis", "vineyard": "Chapelot", "color": "white", "avg_price": 190, "min_price": 130, "max_price": 300 },
+      { "wine_name": "Chablis Premier Cru Forêt", "appellation": "Chablis 1er Cru", "classification": "Premier Cru", "region": "Chablis", "commune": "Chablis", "vineyard": "Forêt", "color": "white", "avg_price": 170, "min_price": 110, "max_price": 260 }
+    ]
+  },
+  {
+    "producer": "Domaine Comte Georges de Vogüé",
+    "wines": [
+      { "wine_name": "Musigny Vieilles Vignes Grand Cru", "appellation": "Musigny", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Musigny", "color": "red", "avg_price": 1050, "min_price": 750, "max_price": 1600 },
+      { "wine_name": "Musigny Blanc Grand Cru", "appellation": "Musigny", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Musigny", "color": "white", "avg_price": 1420, "min_price": 1000, "max_price": 2200 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 700, "min_price": 480, "max_price": 1100 },
+      { "wine_name": "Chambolle-Musigny Les Amoureuses", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Amoureuses", "color": "red", "avg_price": 700, "min_price": 480, "max_price": 1100 },
+      { "wine_name": "Chambolle-Musigny Les Baudes", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Baudes", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 }
+    ]
+  },
+  {
+    "producer": "Domaine Jacques-Frédéric Mugnier",
+    "wines": [
+      { "wine_name": "Musigny Grand Cru", "appellation": "Musigny", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Musigny", "color": "red", "avg_price": 3000, "min_price": 2000, "max_price": 5000 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 1550, "min_price": 1000, "max_price": 2300 },
+      { "wine_name": "Chambolle-Musigny Les Amoureuses", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Amoureuses", "color": "red", "avg_price": 2550, "min_price": 1800, "max_price": 3800 },
+      { "wine_name": "Chambolle-Musigny Les Fuées", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Fuées", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 750 },
+      { "wine_name": "Nuits-Saint-Georges Clos de la Maréchale", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Clos de la Maréchale", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 }
+    ]
+  },
+  {
+    "producer": "Domaine Ponsot",
+    "wines": [
+      { "wine_name": "Clos de la Roche Vieilles Vignes Grand Cru", "appellation": "Clos de la Roche", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos de la Roche", "color": "red", "avg_price": 800, "min_price": 550, "max_price": 1300 },
+      { "wine_name": "Clos Saint-Denis Grand Cru", "appellation": "Clos Saint-Denis", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos Saint-Denis", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 800 },
+      { "wine_name": "Chambertin Grand Cru", "appellation": "Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chambertin", "color": "red", "avg_price": 700, "min_price": 500, "max_price": 1100 },
+      { "wine_name": "Griotte-Chambertin Grand Cru", "appellation": "Griotte-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Griotte-Chambertin", "color": "red", "avg_price": 650, "min_price": 450, "max_price": 1000 },
+      { "wine_name": "Chapelle-Chambertin Grand Cru", "appellation": "Chapelle-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chapelle-Chambertin", "color": "red", "avg_price": 400, "min_price": 280, "max_price": 600 },
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 350, "min_price": 250, "max_price": 550 }
+    ]
+  },
+  {
+    "producer": "Domaine Méo-Camuzet",
+    "wines": [
+      { "wine_name": "Richebourg Grand Cru", "appellation": "Richebourg", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Richebourg", "color": "red", "avg_price": 1800, "min_price": 1200, "max_price": 3000 },
+      { "wine_name": "Clos de Vougeot Grand Cru", "appellation": "Clos de Vougeot", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vougeot", "vineyard": "Clos de Vougeot", "color": "red", "avg_price": 600, "min_price": 400, "max_price": 950 },
+      { "wine_name": "Corton Grand Cru La Vigne au Saint", "appellation": "Corton", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "La Vigne au Saint", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Echézeaux Grand Cru Les Rouges du Bas", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Les Rouges du Bas", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 800 },
+      { "wine_name": "Vosne-Romanée Les Brûlées", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Brûlées", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 800 },
+      { "wine_name": "Vosne-Romanée Cros Parantoux", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Cros Parantoux", "color": "red", "avg_price": 2500, "min_price": 1800, "max_price": 4000 },
+      { "wine_name": "Vosne-Romanée Les Chaumes", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Chaumes", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Nuits-Saint-Georges Les Murgers", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Les Murgers", "color": "red", "avg_price": 300, "min_price": 200, "max_price": 450 },
+      { "wine_name": "Nuits-Saint-Georges Aux Boudots", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Aux Boudots", "color": "red", "avg_price": 280, "min_price": 190, "max_price": 420 }
+    ]
+  },
+  {
+    "producer": "Domaine des Comtes Lafon",
+    "wines": [
+      { "wine_name": "Montrachet Grand Cru", "appellation": "Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Montrachet", "color": "white", "avg_price": 3500, "min_price": 2500, "max_price": 5000 },
+      { "wine_name": "Meursault Perrières", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Perrières", "color": "white", "avg_price": 890, "min_price": 600, "max_price": 1300 },
+      { "wine_name": "Meursault Charmes", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Charmes", "color": "white", "avg_price": 400, "min_price": 280, "max_price": 600 },
+      { "wine_name": "Meursault Genevrières", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Genevrières", "color": "white", "avg_price": 420, "min_price": 300, "max_price": 650 },
+      { "wine_name": "Meursault Goutte d'Or", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Goutte d'Or", "color": "white", "avg_price": 380, "min_price": 260, "max_price": 580 },
+      { "wine_name": "Volnay Santenots du Milieu", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Santenots du Milieu", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Volnay Champans", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Champans", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 }
+    ]
+  },
+  {
+    "producer": "Domaine Bonneau du Martray",
+    "wines": [
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Pernand-Vergelesses", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 450, "min_price": 300, "max_price": 700 },
+      { "wine_name": "Corton Grand Cru", "appellation": "Corton", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Pernand-Vergelesses", "vineyard": "Corton", "color": "red", "avg_price": 300, "min_price": 200, "max_price": 450 }
+    ]
+  },
+  {
+    "producer": "Domaine Sylvain Cathiard",
+    "wines": [
+      { "wine_name": "Romanée-Saint-Vivant Grand Cru", "appellation": "Romanée-Saint-Vivant", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Romanée-Saint-Vivant", "color": "red", "avg_price": 3580, "min_price": 2500, "max_price": 5200 },
+      { "wine_name": "Vosne-Romanée Les Malconsorts", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Malconsorts", "color": "red", "avg_price": 1215, "min_price": 800, "max_price": 1800 },
+      { "wine_name": "Vosne-Romanée En Orveaux", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "En Orveaux", "color": "red", "avg_price": 1200, "min_price": 800, "max_price": 1800 },
+      { "wine_name": "Vosne-Romanée Les Reignots", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Reignots", "color": "red", "avg_price": 1500, "min_price": 1000, "max_price": 2400 },
+      { "wine_name": "Vosne-Romanée Les Suchots", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Suchots", "color": "red", "avg_price": 1345, "min_price": 900, "max_price": 2000 },
+      { "wine_name": "Nuits-Saint-Georges Aux Thorey", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Aux Thorey", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 750 }
+    ]
+  },
+  {
+    "producer": "Domaine Emmanuel Rouget",
+    "wines": [
+      { "wine_name": "Echézeaux Grand Cru", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Echézeaux", "color": "red", "avg_price": 1250, "min_price": 850, "max_price": 1800 },
+      { "wine_name": "Vosne-Romanée Cros Parantoux", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Cros Parantoux", "color": "red", "avg_price": 3950, "min_price": 2700, "max_price": 5800 },
+      { "wine_name": "Vosne-Romanée Les Beaux Monts", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Beaux Monts", "color": "red", "avg_price": 800, "min_price": 550, "max_price": 1200 }
+    ]
+  },
+  {
+    "producer": "Domaine Henri Jayer (Estate)",
+    "wines": [
+      { "wine_name": "Richebourg Grand Cru", "appellation": "Richebourg", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Richebourg", "color": "red", "avg_price": 19000, "min_price": 14000, "max_price": 30000 },
+      { "wine_name": "Echézeaux Grand Cru", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Echézeaux", "color": "red", "avg_price": 9500, "min_price": 6500, "max_price": 15000 },
+      { "wine_name": "Vosne-Romanée Cros Parantoux", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Cros Parantoux", "color": "red", "avg_price": 14150, "min_price": 10000, "max_price": 22000 },
+      { "wine_name": "Vosne-Romanée Les Brûlées", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Brûlées", "color": "red", "avg_price": 8500, "min_price": 6000, "max_price": 14000 },
+      { "wine_name": "Nuits-Saint-Georges Les Meurgers", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Les Meurgers", "color": "red", "avg_price": 5000, "min_price": 3500, "max_price": 8000 }
+    ]
+  },
+  {
+    "producer": "Domaine Comte Liger-Belair",
+    "wines": [
+      { "wine_name": "La Romanée Grand Cru", "appellation": "La Romanée", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "La Romanée", "color": "red", "avg_price": 7650, "min_price": 5500, "max_price": 11000 },
+      { "wine_name": "Richebourg Grand Cru", "appellation": "Richebourg", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Richebourg", "color": "red", "avg_price": 2300, "min_price": 1600, "max_price": 3500 },
+      { "wine_name": "Clos de Vougeot Grand Cru", "appellation": "Clos de Vougeot", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vougeot", "vineyard": "Clos de Vougeot", "color": "red", "avg_price": 800, "min_price": 550, "max_price": 1200 },
+      { "wine_name": "Echézeaux Grand Cru", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Echézeaux", "color": "red", "avg_price": 600, "min_price": 400, "max_price": 950 },
+      { "wine_name": "Vosne-Romanée Aux Reignots", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Aux Reignots", "color": "red", "avg_price": 1200, "min_price": 800, "max_price": 1800 },
+      { "wine_name": "Vosne-Romanée Les Suchots", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Suchots", "color": "red", "avg_price": 900, "min_price": 600, "max_price": 1400 },
+      { "wine_name": "Nuits-Saint-Georges Les Cras", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Les Cras", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 }
+    ]
+  },
+  {
+    "producer": "Domaine Bizot",
+    "wines": [
+      { "wine_name": "Echézeaux Grand Cru", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Echézeaux", "color": "red", "avg_price": 5275, "min_price": 3500, "max_price": 8000 },
+      { "wine_name": "Vosne-Romanée Les Jachées", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Jachées", "color": "red", "avg_price": 2000, "min_price": 1300, "max_price": 3000 },
+      { "wine_name": "Vosne-Romanée Les Réas", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Réas", "color": "red", "avg_price": 3000, "min_price": 2000, "max_price": 4500 }
+    ]
+  },
+  {
+    "producer": "Domaine Dugat-Py",
+    "wines": [
+      { "wine_name": "Chambertin Grand Cru", "appellation": "Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chambertin", "color": "red", "avg_price": 3100, "min_price": 2100, "max_price": 4500 },
+      { "wine_name": "Mazis-Chambertin Grand Cru", "appellation": "Mazis-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Mazis-Chambertin", "color": "red", "avg_price": 1030, "min_price": 700, "max_price": 1500 },
+      { "wine_name": "Charmes-Chambertin Grand Cru", "appellation": "Charmes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Charmes-Chambertin", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 750 },
+      { "wine_name": "Mazoyères-Chambertin Grand Cru", "appellation": "Mazoyères-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Mazoyères-Chambertin", "color": "red", "avg_price": 450, "min_price": 300, "max_price": 700 },
+      { "wine_name": "Gevrey-Chambertin Champeaux", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Champeaux", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 }
+    ]
+  },
+  {
+    "producer": "Domaine Fourrier",
+    "wines": [
+      { "wine_name": "Griotte-Chambertin Grand Cru", "appellation": "Griotte-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Griotte-Chambertin", "color": "red", "avg_price": 1160, "min_price": 800, "max_price": 1700 },
+      { "wine_name": "Gevrey-Chambertin Clos Saint-Jacques", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos Saint-Jacques", "color": "red", "avg_price": 820, "min_price": 550, "max_price": 1200 },
+      { "wine_name": "Gevrey-Chambertin Les Champeaux", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Champeaux", "color": "red", "avg_price": 280, "min_price": 200, "max_price": 420 },
+      { "wine_name": "Gevrey-Chambertin Les Goulots", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Goulots", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Gevrey-Chambertin Les Cherbaudes", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Cherbaudes", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 }
+    ]
+  },
+  {
+    "producer": "Domaine Robert Groffier",
+    "wines": [
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 800, "min_price": 550, "max_price": 1200 },
+      { "wine_name": "Chambertin Clos de Bèze Grand Cru", "appellation": "Chambertin Clos de Bèze", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos de Bèze", "color": "red", "avg_price": 900, "min_price": 600, "max_price": 1400 },
+      { "wine_name": "Chambolle-Musigny Les Amoureuses", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Amoureuses", "color": "red", "avg_price": 650, "min_price": 450, "max_price": 1000 },
+      { "wine_name": "Chambolle-Musigny Les Sentiers", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Sentiers", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Chambolle-Musigny Les Hauts Doix", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Les Hauts Doix", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 }
+    ]
+  },
+  {
+    "producer": "Domaine Marquis d'Angerville",
+    "wines": [
+      { "wine_name": "Clos des Ducs Monopole", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Clos des Ducs", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Volnay Champans", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Champans", "color": "red", "avg_price": 180, "min_price": 120, "max_price": 280 },
+      { "wine_name": "Volnay Taillepieds", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Taillepieds", "color": "red", "avg_price": 180, "min_price": 120, "max_price": 280 },
+      { "wine_name": "Volnay Caillerets", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Caillerets", "color": "red", "avg_price": 160, "min_price": 110, "max_price": 250 }
+    ]
+  },
+  {
+    "producer": "Domaine Etienne Sauzet",
+    "wines": [
+      { "wine_name": "Bâtard-Montrachet Grand Cru", "appellation": "Bâtard-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Bâtard-Montrachet", "color": "white", "avg_price": 700, "min_price": 500, "max_price": 1100 },
+      { "wine_name": "Bienvenues-Bâtard-Montrachet Grand Cru", "appellation": "Bienvenues-Bâtard-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Bienvenues-Bâtard-Montrachet", "color": "white", "avg_price": 600, "min_price": 400, "max_price": 900 },
+      { "wine_name": "Puligny-Montrachet Les Combettes", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Les Combettes", "color": "white", "avg_price": 300, "min_price": 200, "max_price": 450 },
+      { "wine_name": "Puligny-Montrachet Champ Canet", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Champ Canet", "color": "white", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Puligny-Montrachet Les Referts", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Les Referts", "color": "white", "avg_price": 220, "min_price": 150, "max_price": 350 }
+    ]
+  },
+  {
+    "producer": "Domaine Hubert Lignier",
+    "wines": [
+      { "wine_name": "Clos de la Roche Grand Cru", "appellation": "Clos de la Roche", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos de la Roche", "color": "red", "avg_price": 600, "min_price": 400, "max_price": 950 },
+      { "wine_name": "Charmes-Chambertin Grand Cru", "appellation": "Charmes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Charmes-Chambertin", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Gevrey-Chambertin Les Combottes", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Combottes", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 }
+    ]
+  },
+  {
+    "producer": "Domaine des Lambrays",
+    "wines": [
+      { "wine_name": "Clos des Lambrays Grand Cru", "appellation": "Clos des Lambrays", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos des Lambrays", "color": "red", "avg_price": 650, "min_price": 450, "max_price": 1000 }
+    ]
+  },
+  {
+    "producer": "Domaine Jean-Louis Trapet",
+    "wines": [
+      { "wine_name": "Chambertin Grand Cru", "appellation": "Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chambertin", "color": "red", "avg_price": 600, "min_price": 400, "max_price": 950 },
+      { "wine_name": "Latricières-Chambertin Grand Cru", "appellation": "Latricières-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Latricières-Chambertin", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Chapelle-Chambertin Grand Cru", "appellation": "Chapelle-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chapelle-Chambertin", "color": "red", "avg_price": 300, "min_price": 200, "max_price": 450 },
+      { "wine_name": "Gevrey-Chambertin Clos Prieur", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos Prieur", "color": "red", "avg_price": 120, "min_price": 80, "max_price": 180 }
+    ]
+  },
+  {
+    "producer": "Domaine Denis Mortet",
+    "wines": [
+      { "wine_name": "Chambertin Grand Cru", "appellation": "Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Chambertin", "color": "red", "avg_price": 1500, "min_price": 1000, "max_price": 2500 },
+      { "wine_name": "Clos de Vougeot Grand Cru", "appellation": "Clos de Vougeot", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vougeot", "vineyard": "Clos de Vougeot", "color": "red", "avg_price": 550, "min_price": 380, "max_price": 850 },
+      { "wine_name": "Mazis-Chambertin Grand Cru", "appellation": "Mazis-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Mazis-Chambertin", "color": "red", "avg_price": 600, "min_price": 400, "max_price": 950 },
+      { "wine_name": "Gevrey-Chambertin Lavaux Saint-Jacques", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Lavaux Saint-Jacques", "color": "red", "avg_price": 280, "min_price": 200, "max_price": 420 },
+      { "wine_name": "Gevrey-Chambertin Les Champeaux", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Champeaux", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 }
+    ]
+  },
+  {
+    "producer": "Domaine Bruno Clair",
+    "wines": [
+      { "wine_name": "Chambertin Clos de Bèze Grand Cru", "appellation": "Chambertin Clos de Bèze", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos de Bèze", "color": "red", "avg_price": 700, "min_price": 500, "max_price": 1100 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 450, "min_price": 300, "max_price": 700 },
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Pernand-Vergelesses", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Gevrey-Chambertin Clos Saint-Jacques", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos Saint-Jacques", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Gevrey-Chambertin Les Cazetiers", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Cazetiers", "color": "red", "avg_price": 150, "min_price": 100, "max_price": 220 },
+      { "wine_name": "Gevrey-Chambertin Clos du Fonteny", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos du Fonteny", "color": "red", "avg_price": 130, "min_price": 90, "max_price": 200 }
+    ]
+  },
+  {
+    "producer": "Domaine Faiveley",
+    "wines": [
+      { "wine_name": "Musigny Grand Cru", "appellation": "Musigny", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Musigny", "color": "red", "avg_price": 3700, "min_price": 2500, "max_price": 5500 },
+      { "wine_name": "Chambertin Clos de Bèze Grand Cru", "appellation": "Chambertin Clos de Bèze", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos de Bèze", "color": "red", "avg_price": 470, "min_price": 320, "max_price": 700 },
+      { "wine_name": "Clos de Vougeot Grand Cru", "appellation": "Clos de Vougeot", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vougeot", "vineyard": "Clos de Vougeot", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Mazis-Chambertin Grand Cru", "appellation": "Mazis-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Mazis-Chambertin", "color": "red", "avg_price": 300, "min_price": 200, "max_price": 450 },
+      { "wine_name": "Latricières-Chambertin Grand Cru", "appellation": "Latricières-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Latricières-Chambertin", "color": "red", "avg_price": 300, "min_price": 200, "max_price": 450 },
+      { "wine_name": "Echézeaux Grand Cru", "appellation": "Echézeaux", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Flagey-Echézeaux", "vineyard": "Echézeaux", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Corton Clos des Cortons Grand Cru", "appellation": "Corton", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Clos des Cortons Faiveley", "color": "red", "avg_price": 240, "min_price": 160, "max_price": 360 },
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Bâtard-Montrachet Grand Cru", "appellation": "Bâtard-Montrachet", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Bâtard-Montrachet", "color": "white", "avg_price": 450, "min_price": 300, "max_price": 700 },
+      { "wine_name": "Nuits-Saint-Georges Les Saint-Georges", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "Les Saint-Georges", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Gevrey-Chambertin Les Cazetiers", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Cazetiers", "color": "red", "avg_price": 120, "min_price": 80, "max_price": 180 }
+    ]
+  },
+  {
+    "producer": "Domaine de Montille",
+    "wines": [
+      { "wine_name": "Corton Clos du Roi Grand Cru", "appellation": "Corton", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Clos du Roi", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Clos de Vougeot Grand Cru", "appellation": "Clos de Vougeot", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Vougeot", "vineyard": "Clos de Vougeot", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Vosne-Romanée Les Malconsorts", "appellation": "Vosne-Romanée 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Vosne-Romanée", "vineyard": "Les Malconsorts", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Volnay Taillepieds", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Taillepieds", "color": "red", "avg_price": 150, "min_price": 100, "max_price": 220 },
+      { "wine_name": "Pommard Les Pézerolles", "appellation": "Pommard 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Pommard", "vineyard": "Les Pézerolles", "color": "red", "avg_price": 130, "min_price": 90, "max_price": 200 },
+      { "wine_name": "Puligny-Montrachet Les Caillerets", "appellation": "Puligny-Montrachet 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Puligny-Montrachet", "vineyard": "Les Caillerets", "color": "white", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Beaune Les Grèves", "appellation": "Beaune 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Beaune", "vineyard": "Les Grèves", "color": "red", "avg_price": 80, "min_price": 55, "max_price": 120 }
+    ]
+  },
+  {
+    "producer": "Domaine Roulot",
+    "wines": [
+      { "wine_name": "Meursault Perrières", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Perrières", "color": "white", "avg_price": 800, "min_price": 550, "max_price": 1200 },
+      { "wine_name": "Meursault Charmes", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Charmes", "color": "white", "avg_price": 500, "min_price": 350, "max_price": 750 },
+      { "wine_name": "Meursault Bouchères", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Bouchères", "color": "white", "avg_price": 450, "min_price": 300, "max_price": 700 },
+      { "wine_name": "Meursault Poruzots", "appellation": "Meursault 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Poruzots", "color": "white", "avg_price": 400, "min_price": 280, "max_price": 600 },
+      { "wine_name": "Meursault Tessons Clos de Mon Plaisir", "appellation": "Meursault", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Tessons", "color": "white", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Meursault Luchets", "appellation": "Meursault", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Meursault", "vineyard": "Les Luchets", "color": "white", "avg_price": 250, "min_price": 180, "max_price": 380 }
+    ]
+  },
+  {
+    "producer": "Domaine Perrot-Minot",
+    "wines": [
+      { "wine_name": "Chambertin Clos de Bèze Grand Cru", "appellation": "Chambertin Clos de Bèze", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Clos de Bèze", "color": "red", "avg_price": 700, "min_price": 500, "max_price": 1100 },
+      { "wine_name": "Mazoyères-Chambertin Grand Cru", "appellation": "Mazoyères-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Mazoyères-Chambertin", "color": "red", "avg_price": 350, "min_price": 250, "max_price": 550 },
+      { "wine_name": "Charmes-Chambertin Grand Cru", "appellation": "Charmes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Charmes-Chambertin", "color": "red", "avg_price": 300, "min_price": 200, "max_price": 450 },
+      { "wine_name": "Chambolle-Musigny La Combe d'Orveau", "appellation": "Chambolle-Musigny 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "La Combe d'Orveau", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Nuits-Saint-Georges La Richemone", "appellation": "Nuits-Saint-Georges 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Nuits-Saint-Georges", "vineyard": "La Richemone", "color": "red", "avg_price": 180, "min_price": 120, "max_price": 280 }
+    ]
+  },
+  {
+    "producer": "Domaine Bachelet",
+    "wines": [
+      { "wine_name": "Charmes-Chambertin Grand Cru", "appellation": "Charmes-Chambertin", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Charmes-Chambertin", "color": "red", "avg_price": 500, "min_price": 350, "max_price": 750 },
+      { "wine_name": "Gevrey-Chambertin Les Corbeaux", "appellation": "Gevrey-Chambertin 1er Cru", "classification": "Premier Cru", "region": "Côte de Nuits", "commune": "Gevrey-Chambertin", "vineyard": "Les Corbeaux", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 }
+    ]
+  },
+  {
+    "producer": "Domaine de la Pousse d'Or",
+    "wines": [
+      { "wine_name": "Corton-Charlemagne Grand Cru", "appellation": "Corton-Charlemagne", "classification": "Grand Cru", "region": "Côte de Beaune", "commune": "Aloxe-Corton", "vineyard": "Corton-Charlemagne", "color": "white", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Clos de la Roche Grand Cru", "appellation": "Clos de la Roche", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Morey-Saint-Denis", "vineyard": "Clos de la Roche", "color": "red", "avg_price": 250, "min_price": 180, "max_price": 380 },
+      { "wine_name": "Bonnes-Mares Grand Cru", "appellation": "Bonnes-Mares", "classification": "Grand Cru", "region": "Côte de Nuits", "commune": "Chambolle-Musigny", "vineyard": "Bonnes-Mares", "color": "red", "avg_price": 300, "min_price": 200, "max_price": 450 },
+      { "wine_name": "Volnay Clos des 60 Ouvrées", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Clos des 60 Ouvrées", "color": "red", "avg_price": 200, "min_price": 140, "max_price": 300 },
+      { "wine_name": "Volnay Clos de la Bousse d'Or", "appellation": "Volnay 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Volnay", "vineyard": "Clos de la Bousse d'Or", "color": "red", "avg_price": 150, "min_price": 100, "max_price": 220 },
+      { "wine_name": "Pommard Les Jarollières", "appellation": "Pommard 1er Cru", "classification": "Premier Cru", "region": "Côte de Beaune", "commune": "Pommard", "vineyard": "Les Jarollières", "color": "red", "avg_price": 100, "min_price": 70, "max_price": 150 }
+    ]
+  }
+]
